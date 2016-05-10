@@ -1,4 +1,4 @@
-FROM mariadb:latest
+FROM daocloud.io/mariadb:latest
 
 MAINTAINER Mahmoud Zalt <mahmoud@zalt.me>
 

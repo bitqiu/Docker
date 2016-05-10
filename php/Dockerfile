@@ -1,4 +1,4 @@
-FROM php:7.0-fpm
+FROM daocloud.io/php:7.0.2-fpm
 
 MAINTAINER Mahmoud Zalt <mahmoud@zalt.me>
 

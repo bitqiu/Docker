@@ -1,4 +1,4 @@
-FROM postgres:latest
+FROM daocloud.io/postgres:latest
 
 MAINTAINER Ben M <git@bmagg.com>
 

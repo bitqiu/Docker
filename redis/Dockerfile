@@ -1,4 +1,4 @@
-FROM redis:latest
+FROM daocloud.io/redis:latest
 
 MAINTAINER Mahmoud Zalt <mahmoud@zalt.me>
 

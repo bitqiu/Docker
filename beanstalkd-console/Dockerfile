@@ -1,4 +1,4 @@
-FROM php:latest
+FROM daocloud.io/php:latest
 
 MAINTAINER Mahmoud Zalt <mahmoud@zalt.me>
 

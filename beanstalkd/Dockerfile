@@ -1,4 +1,4 @@
-FROM phusion/baseimage:latest
+FROM daocloud.io/ubuntu:14.04
 
 MAINTAINER Mahmoud Zalt <mahmoud@zalt.me>
 

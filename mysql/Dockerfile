@@ -1,4 +1,4 @@
-FROM mysql:latest
+FROM daocloud.io/mysql:latest
 
 MAINTAINER Mahmoud Zalt <mahmoud@zalt.me>
 

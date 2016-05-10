@@ -1,4 +1,4 @@
-FROM nginx:latest
+FROM daocloud.io/nginx:latest
 
 MAINTAINER Mahmoud Zalt <mahmoud@zalt.me>
 
